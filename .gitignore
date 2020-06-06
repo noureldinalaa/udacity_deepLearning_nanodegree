@@ -6,3 +6,23 @@ Project2_Dog_classification/lfw/
 Mini_projects _Notebooks/word2vec-embeddings/data/text8
 
 Mini_projects _Notebooks/word2vec-embeddings/data/text8.zip
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/processed/test.pt
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/processed/training.pt
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/t10k-images-idx3-ubyte
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/t10k-labels-idx1-ubyte
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/train-images-idx3-ubyte
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/train-images-idx3-ubyte.gz
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/train-labels-idx1-ubyte
+
+Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/
