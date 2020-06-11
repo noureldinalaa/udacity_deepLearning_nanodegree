@@ -26,3 +26,23 @@ Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/train-images-idx3-ubyte.gz
 Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/train-labels-idx1-ubyte
 
 Mini_projects _Notebooks/GAN/GAN_MNIST/data/MNIST/raw/
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/processed/test.pt
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/processed/training.pt
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/t10k-images-idx3-ubyte
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/t10k-labels-idx1-ubyte
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/train-images-idx3-ubyte
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/train-images-idx3-ubyte.gz
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/train-labels-idx1-ubyte
+
+Mini_projects _Notebooks/batch-norm/data/MNIST/raw/train-labels-idx1-ubyte.gz
