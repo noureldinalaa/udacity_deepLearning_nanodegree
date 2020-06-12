@@ -46,3 +46,5 @@ Mini_projects _Notebooks/batch-norm/data/MNIST/raw/train-images-idx3-ubyte.gz
 Mini_projects _Notebooks/batch-norm/data/MNIST/raw/train-labels-idx1-ubyte
 
 Mini_projects _Notebooks/batch-norm/data/MNIST/raw/train-labels-idx1-ubyte.gz
+
+Mini_projects _Notebooks/GAN/DCGAN-svhn/data/train_32x32.mat
